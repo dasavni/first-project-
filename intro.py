@@ -30,3 +30,7 @@ elif practice==100:
     print ("lily")
 else :
     print("daisy")
+
+comp =80<12
+print(comp)
+
